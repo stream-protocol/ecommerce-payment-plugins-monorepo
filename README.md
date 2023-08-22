@@ -38,7 +38,7 @@ To integrate Stream**Pay**™ with your e-commerce platform, follow the detailed
 
 ## Documentation
 
-Comprehensive documentation for each e-commerce platform's integration is available in their respective directories. Learn about installation, customization, and accepting cryptocurrency payments through Stream**Pay**™.
+[Comprehensive documentation]([https://shopify.com](https://medusajs-streampay-plugin-documentation.vercel.app/)) for each e-commerce platform's integration is available in their respective directories. Learn about installation, customization, and accepting cryptocurrency payments through Stream**Pay**™.
 
 ## Contributing
 
